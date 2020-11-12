@@ -8,7 +8,7 @@ body {
   background: White;
 }
 
-#main-bio, #portfolio, #contact {
+section {
 margin-top: 20px;
 padding: 10px;
 background-color: #F1FAEE;
