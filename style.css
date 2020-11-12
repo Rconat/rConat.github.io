@@ -27,7 +27,7 @@ header {
 
 h1 {
   /* Box-model */
-  padding: 20px 0;
+  padding: 20px;
 
   /* Positioning */
   margin: 0;
@@ -36,7 +36,6 @@ h1 {
 
   /* Typography */
   color: #eee;
-  text-align: center;
 
   /* Visual */
   background: #333;
