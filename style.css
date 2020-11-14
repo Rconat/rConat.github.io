@@ -9,10 +9,10 @@ body {
 }
 
 section {
-margin-top: 20px;
-padding: 10px;
-background-color: #F1FAEE;
-color: #1D3557;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #F1FAEE;
+  color: #1D3557;
 }
 
 ul {
@@ -47,5 +47,8 @@ ul {
 #proj-img {
   padding: 10px;
   margin: 10px;
-  display: flex;
+}
+
+nav {
+  justify-content: space-between !important;
 }
