@@ -86,28 +86,30 @@ textarea, input {
 /*Medium*/
 @media screen and (max-width:992px){
 
-#proj-img {
-  width: 80%;
-  height: auto;
-  padding: 0px;
-}
+  #proj-img {
+    width: 80%;
+    height: auto;
+    padding: 0px;
+  }
 
-#contact {
-  width: 500px;
-}
+  #contact {
+    width: 500px;
+  }
 
-#contact ul > li {
-  padding: 5px;
-  display: flex;
-  margin-left: 80px;
-}
+  #contact ul > li {
+    padding: 5px;
+    display: flex;
+    margin-left: 80px;
+  }
 
-#bio-image {
-  margin: 20px;
-}
+  #bio-image {
+    margin: 20px;
+  }
 
-.bio-text {
-  margin: 20px;
+  .bio-text {
+    margin: 20px;
+  }
+
 }
 
 /*small*/
@@ -132,3 +134,5 @@ textarea, input {
   #contact {
     margin: 20px;
   }
+
+}
