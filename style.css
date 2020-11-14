@@ -99,7 +99,7 @@ textarea, input {
 #contact ul > li {
   padding: 5px;
   display: flex;
-  margin-left: 90px;
+  margin-left: 80px;
 }
 
 #bio-image {
@@ -128,3 +128,6 @@ textarea, input {
   #bio-image {
     margin: auto;
   }
+
+  #contact {
+    margin: 20px;
