@@ -8,6 +8,13 @@ body {
   background: White;
 }
 
+h1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #F1FAEE;
+  margin-top: 5px;
+}
+
 section {
   margin-top: 20px;
   padding: 10px;
@@ -15,8 +22,10 @@ section {
   color: #1D3557;
 }
 
-ul {
+#contact ul > li {
+  padding: 15px;
   list-style: none;
+  display: inline-flex;
 }
 
 h2 {
@@ -46,7 +55,8 @@ ul {
 
 #proj-img {
   padding: 10px;
-  margin: 10px;
+  margin: 0 auto;
+  display: block;
 }
 
 nav {
@@ -55,4 +65,19 @@ nav {
 
 .navbar-collapse, .collapse {
   flex-grow: unset !important;
+  margin: 0px;
+}
+
+#contact {
+  margin: auto;
+  margin-top: 20px;
+
+}
+
+textarea, input {
+  width: 800px;
+}
+
+.navbar-toggler-icon {
+  padding: 12px;
 }
