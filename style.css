@@ -41,12 +41,12 @@ a {
 #bio-image {
   width: 200px;
   height: 200px;
-  margin-left: 30px;
+  display: block;
+  margin: auto;
 }
 
 .bio-text {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin: auto;
 }
 
 ul {
@@ -81,3 +81,50 @@ textarea, input {
 .navbar-toggler-icon {
   padding: 12px;
 }
+
+/* Media selector for responsive website features */
+/*Medium*/
+@media screen and (max-width:992px){
+
+#proj-img {
+  width: 80%;
+  height: auto;
+  padding: 0px;
+}
+
+#contact {
+  width: 500px;
+}
+
+#contact ul > li {
+  padding: 5px;
+  display: flex;
+  margin-left: 90px;
+}
+
+#bio-image {
+  margin: 20px;
+}
+
+.bio-text {
+  margin: 20px;
+}
+
+/*small*/
+@media screen and (max-width:580px){
+
+  #proj-img {
+    width: auto;
+    height: 200px;
+    padding: 10px;
+  }
+  
+  #portfolio {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+  }
+
+  #bio-image {
+    margin: auto;
+  }
