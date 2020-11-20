@@ -23,11 +23,11 @@ You can find the repo on [GitHub](https://github.com/Rconat/rConat.github.io).
 
 ## Images of Project
 
-![Website Layout](mainPageLayout.jpg)
+![Website Layout](main-page-layout.jpg)
 
-![Portfolio Layout](portfolioLayout.jpg)
+![Portfolio Layout](portfolio-layout.jpg)
 
-![Contact Layout](contactLayout.jpg)
+![Contact Layout](contact-layout.jpg)
 
 
 ## List of Files
