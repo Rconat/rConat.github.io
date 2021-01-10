@@ -139,6 +139,10 @@ nav {
 /*small*/
 @media screen and (max-width:580px){
 
+  #category h2 {
+    text-align: center;
+  }
+
   #proj-img {
     width: auto;
     height: 200px;
