@@ -13,11 +13,11 @@ img {
   width: 240px;
 }
 
-#experience h2, #education h2 {
+#experience h2, #education h2, #proficiencies h2 {
   font-size: 20px;
 }
 
-#experience ul > li, #education ul > li {
+#experience ul > li, #education ul > li, #proficiencies ul > li {
   list-style: none;
 }
 
