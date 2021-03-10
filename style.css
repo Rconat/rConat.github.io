@@ -8,7 +8,10 @@ body {
   background: White;
 }
 
-
+img {
+  height: 240px;
+  width: 240px;
+}
 
 #experience h2, #education h2 {
   font-size: 20px;

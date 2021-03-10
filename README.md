@@ -23,11 +23,11 @@ You can find the repo on [GitHub](https://github.com/Rconat/rConat.github.io).
 
 ## Images of Project
 
-![Website Layout](main-page-layout.jpg)
+![Website Layout](/assets/main-page-layout.jpg)
 
-![Portfolio Layout](portfolio-layout.jpg)
+![Portfolio Layout](/assets/portfolio-layout.jpg)
 
-![Contact Layout](contact-layout.jpg)
+![Contact Layout](/assets/contact-layout.jpg)
 
 
 ## List of Files
@@ -36,9 +36,15 @@ You can find the repo on [GitHub](https://github.com/Rconat/rConat.github.io).
     <li>index.html</li>
     <li>style.css</li>
     <li>README.md</li>
-    <li>mainPageLayout.jpg</li>
-    <li>portfolioLayout.jpg</li>
-    <li>contactLayout.jpg</li>
+    <li>main-page-layout.jpg</li>
+    <li>portfolio-layout.jpg</li>
+    <li>contact-layout.jpg</li>
+    <li>bio-image.jpg</li>
+    <li>passgen.jpg</li>
+    <li>weather-dashboard.jpg</li>
+    <li>workdayscheduler.jpg</li>
+    <li>motr.jpg</li>
+    <li>moody-app.jpg</li>
 </ul>
 
 
