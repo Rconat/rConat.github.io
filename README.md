@@ -2,7 +2,10 @@
 
 ## Description 
 
-This project is a personal webpage to represent my coding work and projects. This will give me a good foundation to build upon as I further my coding education and begin to add projects and ideas to the site. The page provides the "bare bones" structure which will allow for easy modification later on. The page is responsive to three different media sizes and is intended to be viewable on full webpage, tablet, and mobile devices. 
+This project is a personal webpage to represent my coding work and projects. This will give me a good foundation to build upon as I further my coding education and begin to add projects and ideas to the site. The page provides the "bare bones" structure which will allow for easy modification later on. The page is responsive to three different media sizes and is intended to be viewable on full webpage, tablet, and mobile devices.
+
+Update 11.4.21
+This webpage has been updated with new projects and a refreshed resume to reflect my current proficiencies and certificates.
 
  ---
 ## Webpage Hosting
@@ -36,16 +39,18 @@ You can find the repo on [GitHub](https://github.com/Rconat/rConat.github.io).
     <li>index.html</li>
     <li>style.css</li>
     <li>README.md</li>
-    <li>main-page-layout.jpg</li>
-    <li>portfolio-layout.jpg</li>
-    <li>contact-layout.jpg</li>
     <li>bio-image.jpg</li>
+    <li>contact-layout.jpg</li>
+    <li>crypto-university.jpg</li>
+    <li>eat-da-burger.jpg</li>
+    <li>employee-directory.jpg</li>
+    <li>main-page-layout.jpg</li>
+    <li>moody-app.jpg</li>
+    <li>motr.jpg</li>
     <li>passgen.jpg</li>
+    <li>portfolio-layout.jpg</li>
     <li>weather-dashboard.jpg</li>
     <li>workdayscheduler.jpg</li>
-    <li>motr.jpg</li>
-    <li>moody-app.jpg</li>
-    <li>eat-da-burger.jpg</li>
 </ul>
 
 
